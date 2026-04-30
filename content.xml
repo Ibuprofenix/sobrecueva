@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604271102168SUIAQ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604271102164Q1SVC</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>“On fait un voyage en France ! Préparons notre séjour”(¡Nos vamos de viaje a Francia! Preparamos nuestra estancia)&lt;br&gt;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Sobrecueva Martínez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>- Etapa educativa y nivel al que se dirige: 2º de Educación Secundaria Obligatoria
+- Materia: Francés lengua extranjera
+- Agrupamientos y organización espacial: grupos de 4 personas, parejas e individual.
+- Temporalización: 6 sesiones de 55 minutos
+- Productos que desarrollará el alumnado mediante la realización de las tareas: infografía en Genially, podcast, Kahoot.
+- Herramientas tecnológicas que utilizarán docentes y alumnado:</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777280525089</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mogyxpt5-7wzc08h5b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mogyxpt6-pd6y3hwsz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de la situación de aprendizaje</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la situación de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la situación de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mogyxpt6-pd6y3hwsz</odePageId>
+      <odeBlockId>20260426191556ZYVPHG</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mogyxpt6-pd6y3hwsz</odePageId>
+          <odeBlockId>20260426191556ZYVPHG</odeBlockId>
+          <odeIdeviceId>20260426201919974KK0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Descripción general de la situación de aprendizaje:</strong><br>En esta situación de aprendizaje, el alumnado de 2.º de ESO se convertirá en una agencia de viajes ficticia que debe planificar un viaje a Francia para jóvenes de su edad. A través de este contexto cercano y motivador, se abordará el aprendizaje del francés como lengua extranjera de manera funcional y significativa.<br><br>El alumnado investigará destinos, medios de transporte, alojamientos y actividades, utilizando el francés para comprender información, expresarse oralmente y crear productos digitales. El aprendizaje culminará con la elaboración de una infografía interactiva y un podcast relacionados con el viaje, integrando la competencia comunicativa, digital y cultural.<br><br>&nbsp;<br><strong>Etapa educativa y nivel:</strong><br>Educación Secundaria Obligatoria, 2.º de ESO<br>&nbsp;<br><strong>Áreas, materias y/o módulos implicados:</strong><br>- Francés Lengua Extranjera<br>- Conexión interdisciplinar con: Geografía e Historia (localización de destinos) y Educación Digital (creación de contenidos digitales)<br>&nbsp;<br><strong>Agrupamientos y organización espacial:</strong><br>Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se emplearán distintos tipos de agrupamiento:<br><br>- Trabajo individual (búsqueda de información y comprensión)<br>- Trabajo en parejas (práctica oral)<br>- Trabajo cooperativo en grupos pequeños (elaboración de productos finales)<br>- Gran grupo (presentaciones y retroalimentación)<br>- Se combinará el aula ordinaria con el uso de dispositivos digitales.<br><br>&nbsp;<br><strong>Temporalización:</strong><br>- Duración total: 6 sesiones<br>- Sesiones de 55 minutos<br><br><br><strong>Secuencia propuesta:</strong><br><br>Sesión 1: Introducción al tema de los viajes y activación de vocabulario<br>Sesión 2: Comprensión oral y escrita sobre viajes<br>Sesión 3: Expresión oral: situaciones comunicativas (viajar, preguntar, recomendar)<br>Sesión 4: Creación de la infografía interactiva<br>Sesión 5: Grabación del podcast<br>Sesión 6: Presentación de productos y evaluación<br>&nbsp;<br><strong>Productos finales del alumnado:</strong></p>
+<p><br>- Infografía interactiva:&nbsp;<br>Tema: “Notre voyage en France”<br>Incluirá: destino elegido, medio de transporte, alojamiento, actividades turísticas, elementos interactivos&nbsp;</p>
+<p>- Podcast en lengua francesa (2–3 minutos): presentación oral del viaje y diálogo simulando una agencia de viajes, una recepción de un hotel o recomendaciones para viajeros jóvenes.<br>&nbsp;<br><strong>Herramientas tecnológicas y recursos</strong><br>- Herramientas para el alumnado:<br>Canva o Genially (infografías)<br>Vocaroo, Audacity o Anchor (podcasts)<br>Google Maps / mapas interactivos<br>Diccionarios online (WordReference)<br></p>
+<p>- Herramientas para el profesorado:<br>eXeLearning<br>Aula virtual / Teams / Classroom<br>Rúbricas de evaluación<br></p>
+<p>- Recursos complementarios:<br>Vídeos de viajes en Francia (YouTube)<br>Webs turísticas francófonas adaptadas al alumnado</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260426201919974KK0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Descripción general de la situación de aprendizaje:</strong><br />En esta situación de aprendizaje, el alumnado de 2.º de ESO se convertirá en una agencia de viajes ficticia que debe planificar un viaje a Francia para jóvenes de su edad. A través de este contexto cercano y motivador, se abordará el aprendizaje del francés como lengua extranjera de manera funcional y significativa.<br /><br />El alumnado investigará destinos, medios de transporte, alojamientos y actividades, utilizando el francés para comprender información, expresarse oralmente y crear productos digitales. El aprendizaje culminará con la elaboración de una infografía interactiva y un podcast relacionados con el viaje, integrando la competencia comunicativa, digital y cultural.<br /><br /> <br /><strong>Etapa educativa y nivel:</strong><br />Educación Secundaria Obligatoria, 2.º de ESO<br /> <br /><strong>Áreas, materias y/o módulos implicados:</strong><br />- Francés Lengua Extranjera<br />- Conexión interdisciplinar con: Geografía e Historia (localización de destinos) y Educación Digital (creación de contenidos digitales)<br /> <br /><strong>Agrupamientos y organización espacial:</strong><br />Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se emplearán distintos tipos de agrupamiento:<br /><br />- Trabajo individual (búsqueda de información y comprensión)<br />- Trabajo en parejas (práctica oral)<br />- Trabajo cooperativo en grupos pequeños (elaboración de productos finales)<br />- Gran grupo (presentaciones y retroalimentación)<br />- Se combinará el aula ordinaria con el uso de dispositivos digitales.<br /><br /> <br /><strong>Temporalización:</strong><br />- Duración total: 6 sesiones<br />- Sesiones de 55 minutos<br /><br /><br /><strong>Secuencia propuesta:</strong><br /><br />Sesión 1: Introducción al tema de los viajes y activación de vocabulario<br />Sesión 2: Comprensión oral y escrita sobre viajes<br />Sesión 3: Expresión oral: situaciones comunicativas (viajar, preguntar, recomendar)<br />Sesión 4: Creación de la infografía interactiva<br />Sesión 5: Grabación del podcast<br />Sesión 6: Presentación de productos y evaluación<br /> <br /><strong>Productos finales del alumnado:</strong></p>\n<p><br />- Infografía interactiva: <br />Tema: “Notre voyage en France”<br />Incluirá: destino elegido, medio de transporte, alojamiento, actividades turísticas, elementos interactivos </p>\n<p>- Podcast en lengua francesa (2–3 minutos): presentación oral del viaje y diálogo simulando una agencia de viajes, una recepción de un hotel o recomendaciones para viajeros jóvenes.<br /> <br /><strong>Herramientas tecnológicas y recursos</strong><br />- Herramientas para el alumnado:<br />Canva o Genially (infografías)<br />Vocaroo, Audacity o Anchor (podcasts)<br />Google Maps / mapas interactivos<br />Diccionarios online (WordReference)<br /></p>\n<p>- Herramientas para el profesorado:<br />eXeLearning<br />Aula virtual / Teams / Classroom<br />Rúbricas de evaluación<br /></p>\n<p>- Recursos complementarios:<br />Vídeos de viajes en Francia (YouTube)<br />Webs turísticas francófonas adaptadas al alumnado</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mogyxptd-4fmnig1ot</odePageId>
+  <odeParentPageId>page-mogyxpt6-pd6y3hwsz</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mogyxptd-4fmnig1ot</odePageId>
+      <odeBlockId>20260426191556YIWJXC</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mogyxptd-4fmnig1ot</odePageId>
+          <odeBlockId>20260426191556YIWJXC</odeBlockId>
+          <odeIdeviceId>202604262104209442KC</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Justificación e impacto esperado:&nbsp;</strong><br>El tema de los viajes conecta directamente con los intereses del alumnado y permite trabajar el francés en situaciones reales y funcionales. Esta SdA favorece un aprendizaje activo, donde la lengua se utiliza como herramienta para comunicarse y resolver tareas auténticas.</p>
+<p><strong>Se espera:</strong></p>
+<p>Mayor motivación y participación<br>Mejora de la expresión oral<br>Desarrollo de la autonomía y la creatividad<br>Aumento de la competencia intercultural<br>&nbsp;<br><strong>Relación con los ODS y retos del siglo XXI:</strong></p>
+<p><br>ODS 4: Educación de calidad<br>ODS 10: Respeto a la diversidad cultural<br>ODS 12: Turismo responsable</p>
+<p><br><strong>Responde a retos como:</strong></p>
+<p>Movilidad y ciudadanía global<br>Competencia digital<br>Comunicación intercultural</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604262104209442KC","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Justificación e impacto esperado: </strong><br />El tema de los viajes conecta directamente con los intereses del alumnado y permite trabajar el francés en situaciones reales y funcionales. Esta SdA favorece un aprendizaje activo, donde la lengua se utiliza como herramienta para comunicarse y resolver tareas auténticas.</p>\n<p><strong>Se espera:</strong></p>\n<p>Mayor motivación y participación<br />Mejora de la expresión oral<br />Desarrollo de la autonomía y la creatividad<br />Aumento de la competencia intercultural<br /> <br /><strong>Relación con los ODS y retos del siglo XXI:</strong></p>\n<p><br />ODS 4: Educación de calidad<br />ODS 10: Respeto a la diversidad cultural<br />ODS 12: Turismo responsable</p>\n<p><br /><strong>Responde a retos como:</strong></p>\n<p>Movilidad y ciudadanía global<br />Competencia digital<br />Comunicación intercultural</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mogyxptg-7yh7hp6k0</odePageId>
+  <odeParentPageId>page-mogyxptd-4fmnig1ot</odeParentPageId>
+  <pageName>2.Elementos curriculares</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mogyxptg-7yh7hp6k0</odePageId>
+      <odeBlockId>20260426191556LDCUJH</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mogyxptg-7yh7hp6k0</odePageId>
+          <odeBlockId>20260426191556LDCUJH</odeBlockId>
+          <odeIdeviceId>20260426202810815IH5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Competencias clave (perfil de salida)</strong><br>Competencia en comunicación lingüística<br>Competencia plurilingüe<br>Competencia digital<br>Competencia personal, social y de aprender a aprender<br>Competencia ciudadana<br>&nbsp;<br><strong>Competencias específicas (Lengua Extranjera)</strong><br>Comprender mensajes orales y escritos relacionados con viajes<br>Expresarse oralmente en situaciones cotidianas de viaje<br>Interactuar de manera guiada en contextos simulados<br>Valorar la diversidad cultural y lingüística<br>&nbsp;<br><strong>Saberes básicos</strong><br>Léxico de los viajes: transporte, alojamiento, destinos, actividades<br>Estructuras básicas:Présent de l’indicatif<br>Expresión del futuro próximo (aller + infinitif)<br>Fonética básica<br>Aspectos culturales de Francia como destino turístico<br>&nbsp;<br><strong>Criterios de evaluación</strong><br>Comprende textos breves sobre viajes<br>Produce mensajes orales claros y adecuados al nivel<br>Usa vocabulario y estructuras trabajadas<br>Participa activamente en el trabajo cooperativo<br>Utiliza herramientas digitales de forma adecuada</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260426202810815IH5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Competencias clave (perfil de salida)</strong><br />Competencia en comunicación lingüística<br />Competencia plurilingüe<br />Competencia digital<br />Competencia personal, social y de aprender a aprender<br />Competencia ciudadana<br /> <br /><strong>Competencias específicas (Lengua Extranjera)</strong><br />Comprender mensajes orales y escritos relacionados con viajes<br />Expresarse oralmente en situaciones cotidianas de viaje<br />Interactuar de manera guiada en contextos simulados<br />Valorar la diversidad cultural y lingüística<br /> <br /><strong>Saberes básicos</strong><br />Léxico de los viajes: transporte, alojamiento, destinos, actividades<br />Estructuras básicas:Présent de l’indicatif<br />Expresión del futuro próximo (aller + infinitif)<br />Fonética básica<br />Aspectos culturales de Francia como destino turístico<br /> <br /><strong>Criterios de evaluación</strong><br />Comprende textos breves sobre viajes<br />Produce mensajes orales claros y adecuados al nivel<br />Usa vocabulario y estructuras trabajadas<br />Participa activamente en el trabajo cooperativo<br />Utiliza herramientas digitales de forma adecuada</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mogyxpti-zvsctpz4u</odePageId>
+  <odeParentPageId>page-mogyxptg-7yh7hp6k0</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mogyxpti-zvsctpz4u</odePageId>
+      <odeBlockId>20260426191556RZMFLC</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mogyxpti-zvsctpz4u</odePageId>
+          <odeBlockId>20260426191556RZMFLC</odeBlockId>
+          <odeIdeviceId>20260426202916318YF9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Aprendizaje Basado en Proyectos (ABP)</strong><br>El alumnado desarrolla un proyecto completo centrado en la planificación de un viaje, que culmina en productos reales y comunicativos. Se fomenta el aprendizaje significativo, la cooperación y el uso auténtico de la lengua extranjera.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260426202916318YF9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Aprendizaje Basado en Proyectos (ABP)</strong><br />El alumnado desarrolla un proyecto completo centrado en la planificación de un viaje, que culmina en productos reales y comunicativos. Se fomenta el aprendizaje significativo, la cooperación y el uso auténtico de la lengua extranjera.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mogyxptj-01bpp1vkh</odePageId>
+  <odeParentPageId>page-mogyxpti-zvsctpz4u</odeParentPageId>
+  <pageName>4. Vinculación con proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Vinculación con proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mogyxptj-01bpp1vkh</odePageId>
+      <odeBlockId>20260426191556EQQJJG</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mogyxptj-01bpp1vkh</odePageId>
+          <odeBlockId>20260426191556EQQJJG</odeBlockId>
+          <odeIdeviceId>20260426203100104JNG</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>PLEI: mejora de la competencia comunicativa<br>PAD: atención a la diversidad mediante diferentes apoyos<br>Proyecto TIC: creación de contenidos digitales</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260426203100104JNG","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>PLEI: mejora de la competencia comunicativa<br />PAD: atención a la diversidad mediante diferentes apoyos<br />Proyecto TIC: creación de contenidos digitales</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mogyxptl-uo0ill4i7</odePageId>
+  <odeParentPageId>page-mogyxptj-01bpp1vkh</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mogyxptl-uo0ill4i7</odePageId>
+      <odeBlockId>20260426191556FFACPL</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mogyxptl-uo0ill4i7</odePageId>
+          <odeBlockId>20260426191556FFACPL</odeBlockId>
+          <odeIdeviceId>202604262031383864HG</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Día Europeo de las Lenguas</p>
+<p>Día de la francofonía</p>
+<p>Participación en proyectos eTwinning relacionados con viajes</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604262031383864HG","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Día Europeo de las Lenguas</p>\n<p>Día de la francofonía</p>\n<p>Participación en proyectos eTwinning relacionados con viajes</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mogyxptm-gr7lsv819</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Creative Commons Reconocimiento – Compartir Igual 4.0 (CC BY-SA 4.0)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Creative Commons Reconocimiento – Compartir Igual 4.0 (CC BY-SA 4.0)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Creative Commons Reconocimiento – Compartir Igual 4.0 (CC BY-SA 4.0)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mogyxptm-gr7lsv819</odePageId>
+      <odeBlockId>20260426191556SQAUWX</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mogyxptm-gr7lsv819</odePageId>
+          <odeBlockId>20260426191556SQAUWX</odeBlockId>
+          <odeIdeviceId>20260426205941073DI6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>&nbsp;<img id="dimg_02DuaZvdMJ29i-gPg_mG4QI_1" src="{{context_path}}/content/resources/20260426205941073DI6/blobid0.png" alt="Licencia CC BY SA - CreAnimando" class="YQ4gaf" height="133" width="379" data-csiid="02DuaZvdMJ29i-gPg_mG4QI_1" data-atf="1"></p>
+<p><a href="https://creativecommons.org/licenses/by-sa/4.0/">https://creativecommons.org/licenses/by-sa/4.0/&nbsp;</a>&nbsp;</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260426205941073DI6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> <img id=\"dimg_02DuaZvdMJ29i-gPg_mG4QI_1\" src=\"{{context_path}}/content/resources/20260426205941073DI6/blobid0.png\" alt=\"Licencia CC BY SA - CreAnimando\" class=\"YQ4gaf\" height=\"133\" width=\"379\" data-csiid=\"02DuaZvdMJ29i-gPg_mG4QI_1\" data-atf=\"1\" /></p>\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/ </a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
